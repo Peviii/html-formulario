@@ -1,0 +1,48 @@
+body{
+	font-family: Arial,Helvetica;
+	background-image: linear-gradient(45deg, cyan, green);
+}
+.login{
+	background-color: rgba(0, 0, 0, 0.5);
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	padding: 80px;
+	border-radius: 15px;
+	color: white;
+}
+input{
+	padding: 15px;
+	border: none;
+	outline: none;
+}
+button{
+	background-color: white;
+	padding: 15px;
+	width: 100%;
+	border-radius: 12px;
+	border: none;
+	color: black;
+	font-size: 20px;
+}
+button:hover{
+ 	background-color: floralwhite;
+ 	cursor: pointer;
+}
+a{
+	padding: 15px;
+}
+/*
+background-color: rgba(0, 0, 0, 0.5);
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	padding-top: 300px;
+	padding-bottom: 300px;
+	padding-left: 80px;
+	padding-right: 80px;
+	border-radius: 15px;
+	color: white;
+*/
